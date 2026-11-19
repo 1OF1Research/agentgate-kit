@@ -1,0 +1,1 @@
+{"description":"AgentGate Kit — a standard Agent ID gate + opt-in capability registry for BNB Chain builders","devDependencies":{"ethers":"^6.13.4","ganache":"^7.9.2","solc":"^0.8.28"},"license":"MIT","name":"agentgate-kit","private":true,"scripts":{"test":"node test/run-tests.mjs"},"version":"0.1.0"}
